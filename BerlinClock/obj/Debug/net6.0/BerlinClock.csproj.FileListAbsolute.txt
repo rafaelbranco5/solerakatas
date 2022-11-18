@@ -1,0 +1,15 @@
+C:\Unsynced-Docs\katas\BerlinClock\bin\Debug\net6.0\BerlinClock.exe
+C:\Unsynced-Docs\katas\BerlinClock\bin\Debug\net6.0\BerlinClock.deps.json
+C:\Unsynced-Docs\katas\BerlinClock\bin\Debug\net6.0\BerlinClock.runtimeconfig.json
+C:\Unsynced-Docs\katas\BerlinClock\bin\Debug\net6.0\BerlinClock.dll
+C:\Unsynced-Docs\katas\BerlinClock\bin\Debug\net6.0\BerlinClock.pdb
+C:\Unsynced-Docs\katas\BerlinClock\obj\Debug\net6.0\BerlinClock.csproj.AssemblyReference.cache
+C:\Unsynced-Docs\katas\BerlinClock\obj\Debug\net6.0\BerlinClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unsynced-Docs\katas\BerlinClock\obj\Debug\net6.0\BerlinClock.AssemblyInfoInputs.cache
+C:\Unsynced-Docs\katas\BerlinClock\obj\Debug\net6.0\BerlinClock.AssemblyInfo.cs
+C:\Unsynced-Docs\katas\BerlinClock\obj\Debug\net6.0\BerlinClock.csproj.CoreCompileInputs.cache
+C:\Unsynced-Docs\katas\BerlinClock\obj\Debug\net6.0\BerlinClock.dll
+C:\Unsynced-Docs\katas\BerlinClock\obj\Debug\net6.0\refint\BerlinClock.dll
+C:\Unsynced-Docs\katas\BerlinClock\obj\Debug\net6.0\BerlinClock.pdb
+C:\Unsynced-Docs\katas\BerlinClock\obj\Debug\net6.0\BerlinClock.genruntimeconfig.cache
+C:\Unsynced-Docs\katas\BerlinClock\obj\Debug\net6.0\ref\BerlinClock.dll

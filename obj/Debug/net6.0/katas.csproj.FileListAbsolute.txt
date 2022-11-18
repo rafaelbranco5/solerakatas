@@ -1,0 +1,5 @@
+C:\Unsynced-Docs\katas\obj\Debug\net6.0\katas.csproj.AssemblyReference.cache
+C:\Unsynced-Docs\katas\obj\Debug\net6.0\katas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unsynced-Docs\katas\obj\Debug\net6.0\katas.AssemblyInfoInputs.cache
+C:\Unsynced-Docs\katas\obj\Debug\net6.0\katas.AssemblyInfo.cs
+C:\Unsynced-Docs\katas\obj\Debug\net6.0\katas.csproj.CoreCompileInputs.cache

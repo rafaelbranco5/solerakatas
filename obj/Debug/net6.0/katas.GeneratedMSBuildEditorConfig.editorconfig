@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = ConnectFour
-build_property.ProjectDir = c:\Unsynced-Docs\katas\ConnectFour\
+build_property.RootNamespace = katas
+build_property.ProjectDir = C:\Unsynced-Docs\katas\

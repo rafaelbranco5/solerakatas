@@ -63,9 +63,8 @@ namespace Bingo
             }
         } 
 
-        public Boolean checkNumber( string numberInString, int[,] a)
+        public Boolean checkNumber( int number, int[,] a)
         {
-            int number = int.Parse(numberInString);
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)

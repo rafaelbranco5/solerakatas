@@ -1,0 +1,15 @@
+C:\Unsynced-Docs\katas\Bingo\bin\Debug\net6.0\Bingo.exe
+C:\Unsynced-Docs\katas\Bingo\bin\Debug\net6.0\Bingo.deps.json
+C:\Unsynced-Docs\katas\Bingo\bin\Debug\net6.0\Bingo.runtimeconfig.json
+C:\Unsynced-Docs\katas\Bingo\bin\Debug\net6.0\Bingo.dll
+C:\Unsynced-Docs\katas\Bingo\bin\Debug\net6.0\Bingo.pdb
+C:\Unsynced-Docs\katas\Bingo\obj\Debug\net6.0\Bingo.csproj.AssemblyReference.cache
+C:\Unsynced-Docs\katas\Bingo\obj\Debug\net6.0\Bingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unsynced-Docs\katas\Bingo\obj\Debug\net6.0\Bingo.AssemblyInfoInputs.cache
+C:\Unsynced-Docs\katas\Bingo\obj\Debug\net6.0\Bingo.AssemblyInfo.cs
+C:\Unsynced-Docs\katas\Bingo\obj\Debug\net6.0\Bingo.csproj.CoreCompileInputs.cache
+C:\Unsynced-Docs\katas\Bingo\obj\Debug\net6.0\Bingo.dll
+C:\Unsynced-Docs\katas\Bingo\obj\Debug\net6.0\refint\Bingo.dll
+C:\Unsynced-Docs\katas\Bingo\obj\Debug\net6.0\Bingo.pdb
+C:\Unsynced-Docs\katas\Bingo\obj\Debug\net6.0\Bingo.genruntimeconfig.cache
+C:\Unsynced-Docs\katas\Bingo\obj\Debug\net6.0\ref\Bingo.dll
